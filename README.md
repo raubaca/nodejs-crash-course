@@ -1,2 +1,2 @@
-# nodejs-crash-course
-Node.js crash course chapter code from Jonas Schmedtmann
+# Node.js crash course
+Code for Jonas Schmedtmann's Nodejs Crash Course chapter
